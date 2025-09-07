@@ -18,6 +18,12 @@ classifiers = [
     "Topic :: Utilities",
 ]
 
+[project.urls]
+Homepage = "https://github.com/jovanSAPFIONEER/alphathink"
+Repository = "https://github.com/jovanSAPFIONEER/alphathink"
+Changelog = "https://github.com/jovanSAPFIONEER/alphathink/releases"
+DOI = "https://doi.org/10.5281/zenodo.17072907"
+
 [project.scripts]
 quickcapture = "quickcapture.cli:main"
 alpha-evolve = "alpha_evolve.cli:main"

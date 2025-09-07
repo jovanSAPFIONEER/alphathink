@@ -8,6 +8,7 @@ repository-code: "https://github.com/jovanSAPFIONEER/alphathink"
 url: "https://github.com/jovanSAPFIONEER/alphathink"
 version: "0.1.0"
 license: "MIT"
+doi: 10.5281/zenodo.17072907
 abstract: |
   Alpha Evolve is a dependency-free Python agent that reduces hallucinations by
   iteratively retrieving, proposing, verifying (unigram+bigram coverage), and

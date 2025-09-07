@@ -1,6 +1,7 @@
 # Alpha Evolve + QuickCapture
 
 [![CI](https://github.com/jovanSAPFIONEER/alphathink/actions/workflows/ci.yml/badge.svg)](https://github.com/jovanSAPFIONEER/alphathink/actions/workflows/ci.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17072907.svg)](https://doi.org/10.5281/zenodo.17072907)
 
 This repo contains two small, dependency-free Python CLIs:
 
