@@ -1,0 +1,18 @@
+{
+  "title": "Alpha Evolve: Evidence-first anti-hallucination agent (alphathink)",
+  "upload_type": "software",
+  "description": "Dependency-free Python agent that enforces evidence-backed answers; includes evaluation harness with precision/recall, FAR, CIs, and threshold sweep.",
+  "creators": [
+    { "name": "jovanSAPFIONEER" }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "AI",
+    "retrieval",
+    "verification",
+    "evaluation",
+    "hallucination",
+    "python"
+  ]
+}

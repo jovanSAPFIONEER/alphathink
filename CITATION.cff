@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Alpha Evolve: Evidence-first anti-hallucination agent (alphathink)"
+message: "If you use this software, please cite it as:"
+type: software
+authors:
+  - name: "jovanSAPFIONEER"
+repository-code: "https://github.com/jovanSAPFIONEER/alphathink"
+url: "https://github.com/jovanSAPFIONEER/alphathink"
+version: "0.1.0"
+license: "MIT"
+abstract: |
+  Alpha Evolve is a dependency-free Python agent that reduces hallucinations by
+  iteratively retrieving, proposing, verifying (unigram+bigram coverage), and
+  refusing when evidence is insufficient. Includes an evaluation harness with
+  precision/recall, false-accept rate, confidence intervals, and a threshold sweep.

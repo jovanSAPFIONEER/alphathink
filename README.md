@@ -1,5 +1,7 @@
 # Alpha Evolve + QuickCapture
 
+[![CI](https://github.com/jovanSAPFIONEER/alphathink/actions/workflows/ci.yml/badge.svg)](https://github.com/jovanSAPFIONEER/alphathink/actions/workflows/ci.yml)
+
 This repo contains two small, dependency-free Python CLIs:
 
 - Alpha Evolve: an evidence-first anti-hallucination agent that iterates retrieve → propose → verify → refine and refuses when support is weak.
@@ -59,3 +61,9 @@ python -m quickcapture export --out data/export.json
 ```
 python -m unittest -v
 ```
+
+## Releases and citation
+
+- GitHub Releases: https://github.com/jovanSAPFIONEER/alphathink/releases
+- Cite: see `CITATION.cff`
+- Zenodo: enable GitHub -> Zenodo integration, then create a GitHub release tag (e.g., `v0.1.0`) to mint a DOI.
