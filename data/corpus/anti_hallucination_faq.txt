@@ -1,0 +1,2 @@
+Explain the anti-hallucination principle.
+The anti-hallucination principle is to avoid unsupported claims by verifying drafts against retrieved evidence and refusing when coverage is insufficient.

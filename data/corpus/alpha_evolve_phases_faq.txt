@@ -1,0 +1,2 @@
+What phases does the agent iterate?
+The agent iterates four phases: retrieval, proposal, verification, and refinement. It repeats these phases and refuses if evidence remains insufficient.

@@ -1,0 +1,2 @@
+What is Alpha Evolve?
+Alpha Evolve is an anti-hallucination agent that iterates retrieval, proposal, verification, and refinement, and refuses without sufficient evidence.

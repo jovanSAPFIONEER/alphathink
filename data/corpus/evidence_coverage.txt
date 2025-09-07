@@ -1,0 +1,2 @@
+Evidence coverage measures how many important query terms are present in the answer and its citations.
+Increasing coverage usually increases confidence.

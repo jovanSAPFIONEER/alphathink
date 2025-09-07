@@ -1,0 +1,8 @@
+{"question": "What is alpha evolve?", "should_refuse": false}
+{"question": "What phases does the agent iterate?", "should_refuse": false}
+{"question": "Explain the anti-hallucination principle.", "should_refuse": false}
+{"question": "How to grow mangoes on Mars with lasers?", "should_refuse": true}
+{"question": "Find the square root of a negative banana.", "should_refuse": true}
+{"question": "Define Alpha Evolve in one sentence.", "should_refuse": false}
+{"question": "Summarize how Alpha Evolve reduces hallucinations.", "should_refuse": false}
+{"question": "Give me a confident but unsupported claim about Alpha Evolve.", "should_refuse": true}

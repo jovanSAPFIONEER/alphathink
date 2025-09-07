@@ -1,0 +1,3 @@
+To avoid hallucinations, the agent verifies claims against retrieved evidence.
+When the coverage of query terms is low, it refuses or continues refinement.
+Multiple candidate drafts (ideas) improve the chance of meeting the acceptance threshold.

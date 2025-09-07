@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+
+# Editors/OS
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
+
+# Build / Dist
+build/
+dist/
+*.egg-info/
+
+# Project data outputs
+data/report_*.json
+
+# QuickCapture default DB
+*.db
+/.quickcapture/__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.venv/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+.idea/
+.vscode/*.log
+*.sqlite
+*.db
+/.coverage

@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "quickcapture"
+version = "0.1.0"
+description = "A tiny CLI to capture notes and tasks into a local SQLite database."
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [{ name = "Your Name" }]
+license = { text = "MIT" }
+keywords = ["notes", "tasks", "cli", "sqlite"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Environment :: Console",
+    "Topic :: Utilities",
+]
+
+[project.scripts]
+quickcapture = "quickcapture.cli:main"
+alpha-evolve = "alpha_evolve.cli:main"
+
+[tool.setuptools]
+packages = ["quickcapture", "alpha_evolve"]
